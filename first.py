@@ -1,3 +1,5 @@
 
 # print hello world in python
-print ("hello world. this is my first python program")
+my_string = "Hello, world!"
+print(my_string)
+# print ("hello world. this is my first python program")
